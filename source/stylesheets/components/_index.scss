@@ -1,3 +1,21 @@
 // Import your components CSS files here.
 @import "alert";
 @import "navbar";
+@import "banner";
+@import "cards";
+@import "footer";
+
+.recentflats {
+  text-align: center;
+  font-weight: bold;
+
+}
+
+.builtby {
+  text-align: center;
+
+}
+
+.img-circle {
+  width: 100px;
+}
